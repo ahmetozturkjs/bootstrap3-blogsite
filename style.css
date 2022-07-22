@@ -1,0 +1,39 @@
+
+.navbar{
+    background-color:#085E7D !important;
+}
+
+.section2{
+  background-color:#085E7D !important;
+  /* transform: translateY(-12rem);
+  padding: 3rem 0; */
+}
+body{
+    overflow-x: hidden;
+}
+.card-img-top{
+    object-fit: cover!important;
+    height: 25vh;
+    width: 100%;
+    
+}
+footer{
+    background-color:#085E7D !important;
+}
+.fbackground{
+    background-color: #085E7D;
+}
+
+@media (max-width:768px){
+    iframe{
+        width: 100%;
+    }
+}
+.category{
+    border: solid 1px gray;
+    padding: 1rem;
+}
+.category a{
+    text-decoration: none;
+    color: black;
+}
